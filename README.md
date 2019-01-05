@@ -1,5 +1,5 @@
-# Jogo de Tiro em Realidade Aumentada usando Vuforia
+# Augmented Reality Shooting Game using Vuforia
 
-Jogo de Tiro simples em Realidade Aumentada usando Unity 3D e Vuforia. Feito juntamente com Rodrigo Bueno. 
+Increased Reality Single Shot game using Unity 3D and Vuforia. Done together with Rodrigo Bueno.
 
-FUNCIONAMENTO: O jogador segura uma arma no mundo real e o seu moviemnto é identificado usando marcadores. Os objetos (alvos) são cubos, e o player consegue vê-los utilizando o celular e um marcador.
+HOW IT WORKS: The player holds a weapon in the real world and his movement is identified using markers. The objects (targets) are cubes, and the player can see them using the cell phone and a marker.
